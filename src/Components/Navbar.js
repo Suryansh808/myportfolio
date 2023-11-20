@@ -12,7 +12,7 @@ const Navbar = () => {
          <li><Link to="/">Home</Link></li>
          <li><Link to="/About">About</Link></li>
         <li><Link to="/Contact">Contact</Link></li>
-        <li><Link to="https://drive.google.com/file/d/1oUaFju1WyyWilgPCHNA14opjuCZbkjoZ/view?usp=drive_link" target='_blank'>Resume</Link></li> 
+        {/* <li><Link to="https://drive.google.com/file/d/1oUaFju1WyyWilgPCHNA14opjuCZbkjoZ/view?usp=drive_link" target='_blank'>Resume</Link></li>  */}
        </ul>
       </div>
     </div>
