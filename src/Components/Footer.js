@@ -18,7 +18,7 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/suryansh808" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
          <a href="https://github.com/Suryansh808" target="_blank"><i class="fa-brands fa-github"></i></a>
         </div>
-       © Suryansh Saxena, {new Date().getFullYear()}
+       © Suryansh Saxena, {new Date().getFullYear() }
       </div>
     </div>
   )
