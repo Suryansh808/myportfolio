@@ -27,8 +27,8 @@ const Home = () => {
        {/* <p>A passionate <span style={{color:"#4626B2"}}>frontend</span> and <span style={{color:"#4626B2"}}>web</span> developer.</p> */}
        <p> A Passionate <span ref={el} style={{color:"#4626B2"}} /></p>
       </div>
-      <hr />
-      <div className="section-second">
+      {/* <hr /> */}
+      {/* <div className="section-second">
         <h1>My Work - Projects :</h1>
         <div className="project-container">
         <div className='project1'>
@@ -48,7 +48,7 @@ const Home = () => {
           <p className='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, laborum.</p>
         </div>
         </div>
-      </div>
+      </div> */}
     </div>
    </>
   );
